@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = "Nodejs-app"
-        DOCKER_REGISTRY = "your-dockerhub-username"
+        DOCKER_REGISTRY = "venky-217"
     }
 
     stages {
